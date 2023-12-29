@@ -1,3 +1,4 @@
 requests
 notion-client
-github-heatmap
+# github-heatmap 这是原来的库，源自github_poster
+github_poster
